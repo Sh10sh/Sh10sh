@@ -1,4 +1,4 @@
-### Hi there 👋, я Арс 
+### ХАЙ 👋, я Арс 
 #### Студент СФ МАИ
 ![Студент СФ МАИ](https://girtekadrivers.com/wp-content/webp-express/webp-images/uploads/2023/10/GIRTEKA-HR-1575-1920x1280.jpg.webp)
 
