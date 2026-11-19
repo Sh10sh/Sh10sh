@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋, я Арс 
+#### Студент СФ МАИ
+![Студент СФ МАИ](https://public.superjob.ru/spreaded/images/rtb_pictures/62/200/default.imageAdditional.20062.2860e191f5ee0b6dd5bc98b4d3ff3902.jpg)
 
-<!--
-**Sh10sh/Sh10sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мне сказали сделать это, я честно не понимаю что это и зачем это вообще нужно, но раз сказали, значит сделаю
 
-Here are some ideas to get you started:
+Skills: Водитель категории B/M1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
